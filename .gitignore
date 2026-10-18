@@ -1,0 +1,26 @@
+# ---- 虚拟环境与缓存 ----
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# ---- 便携数据目录（索引数据库、配置、个人数据绝不入库） ----
+data/
+lostfile_index.db
+lostfile_index.db-*
+config.json
+portable.txt.local
+
+# ---- 构建产物 ----
+build/
+dist/
+.cache/
+*.log
+
+# ---- IDE ----
+.vscode/
+.idea/
+
+# ---- 打包中间文件 ----
+*.bak
+*.tmp
