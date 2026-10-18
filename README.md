@@ -45,7 +45,7 @@ LostFile 会把这句话解析成可编辑的搜索条件，显示给你确认�
 ## 运行环境与安装
 
 - Windows 10/11（64 位），无需管理员权限。
-- **下载**：到仓库的 [Releases](./releases) 页下载最新便携包 `LostFile_v<版本>_win64.zip`，解压即用。
+- **下载**：到 [Releases 页面](https://github.com/Luxumbra47/LostFile/releases)下载最新便携包 `LostFile_v<版本>_win64.zip`，解压即用。
 - **免安装**：下载发布包解压后，双击 `LostFile.exe` 即可运行。便携模式下所有数据保存在程序目录的 `data/` 文件夹，删除该文件夹即清除全部数据。
 - 删除 `LostFile.exe` 旁的 `portable.txt` 可切换为普通模式（数据保存到 `%APPDATA%\LostFile`）。
 

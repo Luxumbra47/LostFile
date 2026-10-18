@@ -45,7 +45,7 @@ LostFile parses the sentence into editable search conditions, shows them for con
 ## Requirements & Installation
 
 - Windows 10/11 (64-bit). No admin privileges needed.
-- **Download**: get the latest portable zip `LostFile_v<version>_win64.zip` from the [Releases](./releases) page and unzip it.
+- **Download**: get the latest portable zip `LostFile_v<version>_win64.zip` from the [Releases page](https://github.com/Luxumbra47/LostFile/releases) and unzip it.
 - **Portable**: after unzipping, run `LostFile.exe`. In portable mode all data lives in `data/` next to the executable — delete that folder to wipe everything.
 - Remove `portable.txt` next to the exe to switch to normal mode (data stored in `%APPDATA%\LostFile`).
 
